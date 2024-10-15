@@ -1,4 +1,4 @@
-CODE:
+
 import java.util.Scanner;
 
 public class StringPermutation {
